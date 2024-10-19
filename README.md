@@ -1,5 +1,5 @@
 # Relate
-CLI tool that lets you design schema for relational databases with ease.
+A CLI tool that lets you design and implement schema for relational databases with ease.
 
 ## Usage
 
