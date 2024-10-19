@@ -98,7 +98,7 @@ This table, named `train`, has columns such as `:id`, `:number`, and `:capacity`
                      [:type :varchar 50]               ; Type of train
                      [:capacity :int]                  ; Capacity of passengers
                      [:status :varchar 50]]            ; e.g., 'active', 'maintenance'
-           :primary-key [:id]}]}                        ; Primary key is the :id column
+           :primary-key [:id]}]}                       ; Primary key is the :id column
 ```
 
 ### Foreign Keys
