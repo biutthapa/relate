@@ -3,7 +3,8 @@ CLI tool that lets you design schema for relational databases with ease.
 
 ## Usage
 
-cd into the directory where you have your `relate.edn` file.
+You don't need to specify the path to your schema file if you run the commands from the directory where your `relate.edn` file is located.
+
 ### `relate apply`
 Creates all tables, indexes, and relationships from the `relate.edn` schema.
 
